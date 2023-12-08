@@ -23,5 +23,7 @@ Before starting, your device must have the following application to proceed:
 Installing Python on Windows takes a series of few easy steps.
 1. Download Python Executable Installer
    - You can download it in [Python.org](https://www.python.org/). All the available options will be listed. Select a version that fits the requirements of your system operating system and download the installer.
+ ![Image options](![image](https://github.com/Matining/.../assets/153246826/36f145b7-a5eb-4177-8eb4-6fcc46ce89c2)
+
 ### System Preview
 ## Sustainable Development Goals (SDG's)
