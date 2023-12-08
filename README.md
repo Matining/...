@@ -6,11 +6,8 @@
   [Features](#features)
   
   [Getting Started](#getting-started)  
-  
     [Prerequisites](#prerequisites)  
-  
     [Installation](#installation)  
-  
     [System Preview](#system-preview)  
   
 
@@ -21,11 +18,8 @@
 ## Features
 
 ## Getting Started
-
 ### Prerequisites
-
 ### Installation
-
 ### System Preview
 
 ## Sustainable Development Goals (SDG's)
