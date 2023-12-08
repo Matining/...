@@ -1,6 +1,6 @@
 # ...
 # Table of Contents
-  * 📕[Introduction](#introduction) https://github.com/Matining/.../blob/main/README.md#introduction
+  * 📕[Introduction](#introduction)
   * 🌟[Features](#features)
   * 😃[Getting Started](#getting-started)  
     * 🛠[Prerequisites](#prerequisites)
