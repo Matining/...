@@ -5,7 +5,7 @@
   
   🌟[Features](#features)
   
-  😃[Getting Started](#getting-started)
+  😃[Getting Started](#getting-started)     
     🛠[Prerequisites](#prerequisites)  
     📦[Installation](#installation)  
     💻[System Preview](#system-preview)  
