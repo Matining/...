@@ -47,8 +47,10 @@ Installing Python on Windows takes a series of few easy steps.
 1. Sustainable Development Goal No.8
    - ![image](https://github.com/Matining/.../assets/153246826/eeca74c9-97cd-4398-9f90-a0f0e02a75df)
    - Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
+   - SDG 8 recognises the importance of sustained economic growth and high levels of economic productivity for the creation of well-paid quality jobs and calls for opportunities for full employment and decent work for all.
 2. Sustainable Development Goals No.12
    - ![image](https://github.com/Matining/.../assets/153246826/3a6478c1-204b-4c02-adb5-744ffbbb1817)
    - Ensure sustainable consumption and production patterns
+   - Sustainable Development Goal 12 encourages more sustainable consumption and production patterns through various measures, including specific policies and international agreements on the management of materials that are toxic to the environment.
 
 
