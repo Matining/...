@@ -26,10 +26,10 @@ Installing Python on Windows takes a series of few easy steps.
    - ![image](https://github.com/Matining/.../assets/153246826/36f145b7-a5eb-4177-8eb4-6fcc46ce89c2)
    - ![image](https://github.com/Matining/.../assets/153246826/3c0afb1b-3f71-4caf-9c8c-be8a690e18fb)
 2. After downloading, run the installer. Make sure to select both the checkboxes at the bottom and then click Install New.
-   - ![image](https://github.com/Matining/.../assets/153246826/1581d3e1-b389-46d2-b29f-215b1dd2a4dd)
-- By clicking Install, the installation process start.
-   - ![image](https://github.com/Matining/.../assets/153246826/664df272-185f-49f8-afe6-e97755f47400)
-   - ![image](https://github.com/Matining/.../assets/153246826/ee5276da-fe0d-4f5f-9c37-ba8686475f88)
+     - ![image](https://github.com/Matining/.../assets/153246826/1581d3e1-b389-46d2-b29f-215b1dd2a4dd)
+  - By clicking Install, the installation process start.
+     - ![image](https://github.com/Matining/.../assets/153246826/664df272-185f-49f8-afe6-e97755f47400)
+     - ![image](https://github.com/Matining/.../assets/153246826/ee5276da-fe0d-4f5f-9c37-ba8686475f88)
 3. Verify Python is installed
 - Open the command prompt
 - Type python and press enter
