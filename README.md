@@ -43,6 +43,7 @@ Installing Python on Windows takes a series of few easy steps.
       - ![Screenshot 2023-12-08 160712](https://github.com/Matining/.../assets/153246826/eefd30f9-aaf8-4ccd-b3fe-7b9d838a4111)
 ### System Preview
 ## Sustainable Development Goals (SDG's)
+- This system is aligned to the United Nations Sustainable Development Goals. Below are the goals the system is aligned:
 1. Sustainable Development Goal No.8
    - ![image](https://github.com/Matining/.../assets/153246826/eeca74c9-97cd-4398-9f90-a0f0e02a75df)
    - Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
