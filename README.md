@@ -1,6 +1,6 @@
 # ...
 # Table of Contents
-  * 📕[Introduction](#introduction) 
+  * 📕[Introduction](#introduction) https://github.com/Matining/.../blob/main/README.md#introduction
   * 🌟[Features](#features)
   * 😃[Getting Started](#getting-started)  
     * 🛠[Prerequisites](#prerequisites)
@@ -18,5 +18,6 @@ Before starting, your device must have the following application to proceed:
 #### Python
 - Python is a widely used high-level programming language. Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. It is known for it's simple and as a straight forward language.
 ### Installation
+
 ### System Preview
 ## Sustainable Development Goals (SDG's)
