@@ -1,7 +1,7 @@
 # ...
 
 ## Table of Contents
-[Introduction] (https://github.com/Matining/.../blob/main/README.md#introduction)
+[Introduction] (Matining/README.md#introduction)
 
 ## Introduction
 
