@@ -13,7 +13,7 @@
 ### Prerequisites
 Before starting, your device must have the following application to proceed:
 #### Visual Studio Code (VSCode)
-To Download the [VSCode](https://code.visualstudio.com/download)
+To Download the app click: [VSCode](https://code.visualstudio.com/download)
 ### Installation
 ### System Preview
 ## Sustainable Development Goals (SDG's)
