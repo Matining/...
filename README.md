@@ -11,7 +11,7 @@
       - Viewing the total bill of the orders and also the additional tax of the product. Inputting the cash received from the customer.
       - Buttons like Total, Bill, Print, and Clear to organize the orders and bill of the customer.
     - Print🖨️
-      - This system have a print features for the the total bills of orders. Staff can view the whole receipt before printing that can be seen in the Bill Area section.
+      - The entire bills of orders can be printed using this system's print functionality. Before printing, staff members are able to view the entire receipt in the Bill Area section.
       - Customer can view all the orders and also the total bill from the printed receipt.
       
   * 😃[Getting Started](#getting-started)  
