@@ -13,7 +13,7 @@
 ### Prerequisites
 Before starting, your device must have the following application to proceed:
 #### Visual Studio Code (VSCode)
-`(C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code)`
+To Download the [VSCode]([C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code](https://code.visualstudio.com/download))
 ### Installation
 ### System Preview
 ## Sustainable Development Goals (SDG's)
