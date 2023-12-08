@@ -1,7 +1,8 @@
 # ...
 
 # Table of Contents
-  [Introduction](#introduction)
+  [Introduction](#introduction) 
+  
   [Features](#features)
   [Getting Started](#getting-started)  
     [Prerequisites](#prerequisites)  
