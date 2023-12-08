@@ -1,26 +1,25 @@
 # KO.py Billing System
 # Table of Contents
   * 📕[Introduction](#introduction)
-    - Our group's Advanced Computer Programming Final Project, the KO.py Billing System, enables users to track sales more effectively. This facilitates the company's virtual organization of all sales. The user of this system must be familiar with the fundamentals of using any electronic equipment. In order for the system to provide quick service, it also arranges the quantity of orders that are received from clients. Together with the printing features, mutual trust may be built between the client and the business itself.
-  * 🌟[Features](#features)
-    - Customer Details👩🏼👨🏽
-      - Inputting the name of the customer for their orders.
-      - Shows their receipt number.
-      - 'Order Here' and 'Search' button features.
-    - Billing Menu🧾💵
-      - Viewing the total bill of the orders and also the additional tax of the product. Inputting the cash received from the customer.
-      - Buttons like Total, Bill, Print, and Clear to organize the orders and bill of the customer.
-    - Print🖨️
-      - The entire bills of orders can be printed using this system's print functionality. Before printing, staff members are able to view the entire receipt in the Bill Area section.
-      - Customer can view all the orders and also the total bill from the printed receipt.
-      
+  * 🌟[Features](#features)      
   * 😃[Getting Started](#getting-started)  
     * 🛠[Prerequisites](#prerequisites)
     * 📦[Installation](#installation)  
     * 💻[System Preview](#system-preview)  
   * 🌍[Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
 ## 📕Introduction
+   - Our group's Advanced Computer Programming Final Project, the KO.py Billing System, enables users to track sales more effectively. This facilitates the company's virtual organization of all sales. The user of this system must be familiar with the fundamentals of using any electronic equipment. In order for the system to provide quick service, it also arranges the quantity of orders that are received from clients. Together with the printing features, mutual trust may be built between the client and the business itself.
 ## 🌟Features
+   - Customer Details👩🏼👨🏽
+     - Inputting the name of the customer for their orders.
+     - Shows their receipt number.
+     - 'Order Here' and 'Search' button features.
+   - Billing Menu🧾💵
+     - Viewing the total bill of the orders and also the additional tax of the product. Inputting the cash received from the customer.
+     - Buttons like Total, Bill, Print, and Clear to organize the orders and bill of the customer.
+   - Print🖨️
+     - The entire bills of orders can be printed using this system's print functionality. Before printing, staff members are able to view the entire receipt in the Bill Area section.
+     - Customer can view all the orders and also the total bill from the printed receipt.
 ## 😃Getting Started
 ### 🛠Prerequisites
 Before starting, your device must have the following application to proceed:
