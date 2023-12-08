@@ -6,9 +6,9 @@
   [Features](#features)
   
   [Getting Started](#getting-started)
-    [Prerequisites](#prerequisites)(\n)
-    [Installation](#installation)(\n)
-    [System Preview](#system-preview)(\n)
+    [Prerequisites](#prerequisites)
+    [Installation](#installation)
+    [System Preview](#system-preview)
   
   [Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
 
