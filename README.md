@@ -42,6 +42,12 @@ Installing Python on Windows takes a series of few easy steps.
    - The following output appears if pip is installed successfully.
       - ![Screenshot 2023-12-08 160712](https://github.com/Matining/.../assets/153246826/eefd30f9-aaf8-4ccd-b3fe-7b9d838a4111)
 ### System Preview
+![image](https://github.com/Matining/.../assets/153246826/c9062192-0191-47db-9ec4-00db790c64bf)
+![image](https://github.com/Matining/.../assets/153246826/049b941f-a21c-48af-b6d3-cf3af0bd48af)
+![image](https://github.com/Matining/.../assets/153246826/08a52bef-5502-43fa-ae15-df17914e7979)
+![image](https://github.com/Matining/.../assets/153246826/cac4dfc6-9c2a-46f8-865e-88b6601af912)
+![image](https://github.com/Matining/.../assets/153246826/70506796-09f0-4c65-9263-70587a4fddc4)
+![image](https://github.com/Matining/.../assets/153246826/ddc337e5-abf2-4bea-835d-8bfcf5c80bd6)
 ## Sustainable Development Goals (SDG's)
 - This system is aligned to the United Nations Sustainable Development Goals. Below are the goals the system is aligned:
 1. Sustainable Development Goal No.8
