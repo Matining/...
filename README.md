@@ -2,6 +2,15 @@
 # Table of Contents
   * 📕[Introduction](#introduction)
   * 🌟[Features](#features)
+     - Customer Details👩🏼👨🏽
+         - Inputting the name of the customer for their orders.
+         - Shows their receipt number.
+         - 'Order Here' and 'Search' button features.
+     - Billing Menu🧾💵
+         - Viewing the total bill of the orders and also the additional tax of the product. Inputting the cash received from the customer.
+         - Buttons like Total, Bill, Print, and Clear to organize the orders and bill of the customer.
+      - Print🖨️
+          - This system have a print features for the the total bills of orders. Staff can view the whole receipt before printing in the Bill Area section.
   * 😃[Getting Started](#getting-started)  
     * 🛠[Prerequisites](#prerequisites)
     * 📦[Installation](#installation)  
