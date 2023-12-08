@@ -1,16 +1,16 @@
 # ...
 
 # Table of Contents
-  *[Introduction](#introduction) 
+  📕[Introduction](#introduction) 
   
-  *[Features](#features)
+  🌟[Features](#features)
   
-  *[Getting Started](#getting-started)
-    *[Prerequisites](#prerequisites)  
-    *[Installation](#installation)  
-    *[System Preview](#system-preview)  
+  😃[Getting Started](#getting-started)
+    🛠[Prerequisites](#prerequisites)  
+    📦[Installation](#installation)  
+    💻[System Preview](#system-preview)  
 
-  *[Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
+  🌍[Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
 
 ## Introduction
 
