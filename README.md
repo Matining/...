@@ -7,11 +7,11 @@
   
   [Getting Started](#getting-started)  
   
-  [Prerequisites](#prerequisites)  
+    [Prerequisites](#prerequisites)  
   
-  [Installation](#installation)  
+    [Installation](#installation)  
   
-  [System Preview](#system-preview)  
+    [System Preview](#system-preview)  
   
 
   [Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
