@@ -18,6 +18,10 @@ Before starting, your device must have the following application to proceed:
 #### Python
 - Python is a widely used high-level programming language. Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. It is known for it's simple and as a straight forward language.
 ### Installation
-
+#### Python Installation
+- To write and execute code in python, we first need to install Python on our system.
+Installing Python on Windows takes a series of few easy steps.
+1. Download Python Executable Installer
+   Download Python in [Python.org](https://www.python.org/). All the available options will be listed. Select a version that fits the requirements of your system operating system and download the installer.
 ### System Preview
 ## Sustainable Development Goals (SDG's)
