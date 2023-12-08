@@ -4,8 +4,6 @@
   * 🌟[Features](#features)
   * 😃[Getting Started](#getting-started)  
     * 🛠[Prerequisites](#prerequisites)
-      
-        *[Visual Studio Code (VSCode)](visual-studio-code)
     * 📦[Installation](#installation)  
     * 💻[System Preview](#system-preview)  
   * 🌍[Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
